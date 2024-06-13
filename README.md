@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BAChapin
-- 👀 I’m interested in iOS Development.
-- 🌱 I’m currently learning Flask.
+- 👀 I am an iOS Software Engineer professionally.
+- 🌱 I’m currently learning Express and NodeJS.
 - 📫 How to reach me brett.chapin89@gmail.com
 
 <!---

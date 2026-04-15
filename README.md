@@ -2,6 +2,9 @@
 
 I’m a software engineer specializing in **iOS development**, with experience across **mobile, backend, and infrastructure**. I’ve been building software since 2017, primarily in freelance and contract roles, and currently work on a **Mobile & Desktop team at Sweetwater**.
 
+I’m also a **co-founder of MieTech LLC**, where I explore building intentional, practical software solutions from the ground up.
+
+
 ---
 
 ## 🧠 What I Care About
